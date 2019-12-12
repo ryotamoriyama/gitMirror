@@ -1,0 +1,13 @@
+{
+  "name": "git-mirror",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/kms": "^1.5.3",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "promise": "^8.0.3",
+    "util": "^0.12.1"
+  }
+}
